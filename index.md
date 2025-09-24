@@ -171,10 +171,12 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong>
   {% if online == "false" %}
     Participants must bring a laptop with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). 
+  <!-- that they have administrative privileges on. -->
   {% else %}
     Participants must have access to a computer with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). 
+  <!-- that they have administrative privileges on. -->
   {% endif %}
   They should have a few specific software packages installed (see the <a href="#setup">Setup</a> instructions).
 </p>
@@ -257,8 +259,8 @@ Edit the text to match who can attend the workshop. For instance:
   for more information
 {% endcomment %}
 <p id="who-can-attend">
-    <strong>Who can attend?:</strong>
-    This workshop is limited to 25 participants. Members of PhDs in Criminology and affiliates of NSCR, VU, EUR, and Lectorate CCCS of THUAS will be given priority, in order of registration. If seats are still available, they will be open to the public on a first-come, first-served basis until full capacity is reached. <i>Participants will receive a certificate of attendance as well as 1.5 ECs (European Credits) upon successful completion of the course.</i>
+    <strong>Who can attend?</strong>
+    This workshop is limited to 15 participants. Members of PhDs in Criminology and affiliates of NSCR, VU, and Lectorate CCCS of THUAS will be given priority, in order of registration. If seats are still available, they will be open to the public on a first-come, first-served basis until full capacity is reached. <i>Participants will receive a certificate of attendance as well as 1.5 ECs (European Credits) upon successful completion of the course.</i>
 </p>
 
 
